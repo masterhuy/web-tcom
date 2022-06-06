@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/***** mixin *****/
+@import "mixin/variables";
+@import "mixin/mediaquery";
+@import "mixin/space";
+
+/***** base *****/
+@import "base/media";
+@import "base/base";
+@import "base/header";
+@import "base/footer";
+
+/***** fonts *****/
+@import "fonts/fonts";
+
+/***** pages *****/
+@import "pages/home";
+@import "pages/about";
+@import "pages/project-details";
+@import "pages/offshore";
+@import "pages/project";
+@import "pages/news";
+@import "pages/contact";
+@import "pages/web-development";
+@import "pages/solution";
+@import "pages/service";
+@import "pages/news-details";
+@import "pages/mobile-app-development"; 
+@import "pages/realtime-solution";
+@import "pages/video-solution";
+@import "pages/ai-reseach-development";
+@import "pages/blockchain";
+@import "pages/ui-ux-design";
+@import "pages/qa-testing";
+@import "pages/not-found";
